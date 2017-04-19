@@ -1,0 +1,10 @@
+{
+  "name": "WebServerProApp",
+  "version": "1.0.0",
+  "keywords": ["util", "functional", "server", "client", "browser"],
+  "author": "leekeit",
+  "contributors": [],
+  "dependencies": {}, "scripts":{
+"start":"node WebServerPro.js"}
+
+}
